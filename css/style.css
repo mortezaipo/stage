@@ -83,8 +83,10 @@ samp {
   background-repeat: no-repeat;
 }
 
-.nav-item {
+.navbar-green {
   background-color: #41A7AB;
+  padding: 0;
+  margin: 0;
 }
 .nav-item a,
 .nav-item a:visited,
